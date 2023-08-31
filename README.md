@@ -1,7 +1,7 @@
+Contact: leecurrent04@inha.edu
+
 [nRF24L01 Reference](https://nrf24.github.io/RF24/index.html)
 
-#########################################################################################
-futari.ino
                           #############################
                           # CopyRight to Min Sup Kim  #
                           #############################
@@ -20,4 +20,3 @@ Step on over two specific foot-shaped stickers, think of over two guys ride kick
 pin_setup(): Set up analog pins
 print_db(): Show information pressure sensor's resistance data on Serial Monitor
 over_two(): Judge over two guys riding on kickboard
-#########################################################################################
